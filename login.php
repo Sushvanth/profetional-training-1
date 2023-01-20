@@ -233,27 +233,4 @@ label:hover ~ input[type=password] {
 </form>
 
 </body>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </html>
